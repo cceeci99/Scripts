@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get update
+sudo apt-get updatefffdsfsdfsdfsdfsdfsdfsdfsdfsd
 
 # install az-cli
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash 
